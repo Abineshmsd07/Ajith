@@ -1,0 +1,1 @@
+the file abii1.txt  edited in feature branch1 of directory2
