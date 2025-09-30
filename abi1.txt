@@ -1,0 +1,2 @@
+the file created in feature branch 1 of directory2
+
